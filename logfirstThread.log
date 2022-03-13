@@ -1,0 +1,150 @@
+23:20:00: Main    : create and start thread 0.
+23:20:00: Thread 0: starting
+23:20:00: Main    : create and start thread 1.
+23:20:00: Thread 0: finished
+23:20:00: Thread 1: starting
+23:20:00: Main    : create and start thread 2.
+23:20:00: Thread 1: finished
+23:20:00: Thread 2: starting
+23:20:00: Main    : create and start thread 3.
+23:20:00: Thread 2: finished
+23:20:00: Thread 3: starting
+23:20:00: Main    : create and start thread 4.
+23:20:00: Thread 3: finished
+23:20:00: Thread 4: starting
+23:20:00: Main    : create and start thread 5.
+23:20:00: Thread 4: finished
+23:20:00: Thread 5: starting
+23:20:00: Main    : create and start thread 6.
+23:20:00: Thread 5: finished
+23:20:00: Thread 6: starting
+23:20:00: Thread 6: finished
+23:20:00: Main    : create and start thread 7.
+23:20:00: Thread 7: starting
+23:20:00: Main    : create and start thread 8.
+23:20:00: Thread 7: finished
+23:20:00: Thread 8: starting
+23:20:00: Main    : create and start thread 9.
+23:20:00: Thread 8: finished
+23:20:00: Thread 9: starting
+23:20:00: Thread 9: finished
+23:22:30: Main    : create and start thread 0.
+23:22:30: Thread 0: starting
+23:22:30: Main    : create and start thread 1.
+23:22:30: Thread 0: finished
+23:22:30: Thread 0 took 0 time
+23:22:30: Thread 1: starting
+23:22:30: Main    : create and start thread 2.
+23:22:30: Thread 1: finished
+23:22:30: Thread 1 took 0 time
+23:22:30: Thread 2: starting
+23:22:30: Main    : create and start thread 3.
+23:22:30: Thread 2: finished
+23:22:30: Thread 3: starting
+23:22:30: Thread 2 took 0 time
+23:22:30: Main    : create and start thread 4.
+23:22:30: Thread 3: finished
+23:22:30: Thread 4: starting
+23:22:30: Thread 3 took 0 time
+23:22:30: Main    : create and start thread 5.
+23:22:30: Thread 4: finished
+23:22:30: Thread 4 took 0 time
+23:22:30: Thread 5: starting
+23:22:30: Main    : create and start thread 6.
+23:22:30: Thread 5: finished
+23:22:30: Thread 5 took 0 time
+23:22:30: Thread 6: starting
+23:22:30: Main    : create and start thread 7.
+23:22:30: Thread 6: finished
+23:22:30: Thread 6 took 0 time
+23:22:30: Thread 7: starting
+23:22:30: Main    : create and start thread 8.
+23:22:30: Thread 7: finished
+23:22:30: Thread 7 took 0 time
+23:22:30: Thread 8: starting
+23:22:30: Main    : create and start thread 9.
+23:22:30: Thread 8: finished
+23:22:30: Thread 8 took 0 time
+23:22:30: Thread 9: starting
+23:22:30: Thread 9: finished
+23:22:30: Thread 9 took 0 time
+23:24:15: Main    : create and start thread 0.
+23:24:15: Thread 0: starting
+23:24:15: Main    : create and start thread 1.
+23:24:15: Thread 0: finished
+23:24:15: Thread 1: starting
+23:24:15: Thread 0 took 0 time
+23:24:15: Main    : create and start thread 2.
+23:24:15: Thread 1: finished
+23:24:15: Thread 1 took 0 time
+23:24:15: Thread 2: starting
+23:24:15: Main    : create and start thread 3.
+23:24:15: Thread 2: finished
+23:24:15: Thread 3: starting
+23:24:15: Thread 2 took 0 time
+23:24:15: Main    : create and start thread 4.
+23:24:15: Thread 3: finished
+23:24:15: Thread 4: starting
+23:24:15: Thread 3 took 0 time
+23:24:15: Main    : create and start thread 5.
+23:24:15: Thread 4: finished
+23:24:15: Thread 4 took 0 time
+23:24:15: Thread 5: starting
+23:24:15: Main    : create and start thread 6.
+23:24:15: Thread 5: finished
+23:24:15: Thread 6: starting
+23:24:15: Thread 5 took 0 time
+23:24:15: Main    : create and start thread 7.
+23:24:15: Thread 6: finished
+23:24:15: Thread 6 took 0 time
+23:24:15: Thread 7: starting
+23:24:15: Main    : create and start thread 8.
+23:24:15: Thread 7: finished
+23:24:15: Thread 8: starting
+23:24:15: Thread 7 took 0 time
+23:24:15: Main    : create and start thread 9.
+23:24:15: Thread 8: finished
+23:24:15: Thread 9: starting
+23:24:15: Thread 8 took 0 time
+23:24:15: Thread 9: finished
+23:24:15: Thread 9 took 0 time
+23:24:25: Main    : create and start thread 0.
+23:24:25: Thread 0: starting
+23:24:25: Main    : create and start thread 1.
+23:24:25: Thread 0: finished
+23:24:25: Thread 1: starting
+23:24:25: Thread 0 took 0 time
+23:24:25: Main    : create and start thread 2.
+23:24:25: Thread 1: finished
+23:24:25: Thread 2: starting
+23:24:25: Thread 1 took 0 time
+23:24:25: Main    : create and start thread 3.
+23:24:25: Thread 2: finished
+23:24:25: Thread 2 took 0 time
+23:24:25: Thread 3: starting
+23:24:25: Main    : create and start thread 4.
+23:24:25: Thread 3: finished
+23:24:25: Thread 3 took 0 time
+23:24:25: Thread 4: starting
+23:24:25: Main    : create and start thread 5.
+23:24:25: Thread 4: finished
+23:24:25: Thread 5: starting
+23:24:25: Thread 4 took 0 time
+23:24:25: Main    : create and start thread 6.
+23:24:25: Thread 5: finished
+23:24:25: Thread 5 took 0 time
+23:24:25: Thread 6: starting
+23:24:25: Main    : create and start thread 7.
+23:24:25: Thread 6: finished
+23:24:25: Thread 6 took 0 time
+23:24:25: Thread 7: starting
+23:24:25: Thread 7: finished
+23:24:25: Main    : create and start thread 8.
+23:24:25: Thread 7 took 0 time
+23:24:25: Thread 8: starting
+23:24:25: Main    : create and start thread 9.
+23:24:25: Thread 8: finished
+23:24:25: Thread 9: starting
+23:24:25: Thread 8 took 0 time
+23:24:25: Thread 9: finished
+23:24:25: Thread 9 took 0 time
